@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-image: linear-gradient(45deg, #ff9900, #ff5e62);
+    height: 100px;
+    line-height: 100px;
+}

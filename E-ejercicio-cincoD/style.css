@@ -1,0 +1,21 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+}
+
+#caja1 {
+    background-color: #4283ce;
+}
+
+#caja2 {
+    background-color: #c7319a;
+}
+
+#caja3 {
+    background-color: #94ee1e;
+}
+
+#caja4 {
+    background-color: #f17c46;
+}
