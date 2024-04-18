@@ -11,28 +11,28 @@ div {
 
 #caja1 {
     background-color: #4283ce;
-    position: relative;
-    left: 50vw;
-    top: 50%;
+    position: absolute;
+    right: 50vw;
+    bottom: 50vh;
 }
 
 #caja2 {
     background-color: #c7319a;
-    position: relative;
-    left: 50%;
-    top: 50%;
+    position: absolute;
+    left: 50vw;
+    bottom: 50vh;
 }
 
 #caja3 {
     background-color: #94ee1e;
-    position: relative;
-    left: 50%;
-    top: 50%;
+    position: absolute;
+    left: 50vw;
+    top: 50vh;
 }
 
 #caja4 {
     background-color: #f17c46;
-    position: relative;
-    left: 50%;
-    top: 50%;
+    position: absolute;
+    right: 50vw;
+    top: 50vh;
 }
