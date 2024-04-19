@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#img1 {
+    position: absolute;
+    right: 45vw;
+    bottom: 49vh;
+}
+
+#img2 {
+    position: absolute;
+    left: 49vw;
+    bottom: 43vh;
+}
+
+#img3 {
+    position: absolute;
+    left: 44vw;
+    top: 50vh;
+}
+
+#img4 {
+    position: absolute;
+    right: 50vw;
+    top: 44vh;
+}

@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 div {
     height: 100px;
     width: 100px;
@@ -6,16 +11,26 @@ div {
 
 #caja1 {
     background-color: #4283ce;
+    position: absolute;
+    left: 50vw;
 }
 
 #caja2 {
     background-color: #c7319a;
+    position: absolute;
+    right: 0;
+    top: 50vh;
 }
 
 #caja3 {
     background-color: #94ee1e;
+    position: absolute;
+    left: 50vw;
+    bottom: 0;
 }
 
 #caja4 {
     background-color: #f17c46;
+    position: absolute;
+    top: 50vh;
 }
